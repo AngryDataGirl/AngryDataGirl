@@ -22,7 +22,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🎓 Advanced Statistical Coursework**
+## 🎓 Advanced Statistical Coursework
 
 > **Bridging the gap between financial theory and data science.**
 - **Regression Modeling:** Linear, multiple, and logistic regression for predictive analysis.
