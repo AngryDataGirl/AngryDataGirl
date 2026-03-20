@@ -22,6 +22,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+---
 ## 🎓 Advanced Statistical Coursework
 
 > **Bridging the gap between financial theory and data science.**
@@ -29,6 +30,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 - **ANOVA I & II:** Analysis of variance, including factorial designs and post-hoc testing.
 - **Data Mining & Machine Learning:** Pattern recognition, clustering, and algorithmic data exploration.
   
+---
 ## 🚀 Featured Projects & Technical Labs
 
 ### 🏆 SQL Problem Solving & Optimization
@@ -38,8 +40,6 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 * **Logic Translation:** Converting abstract business requirements into precise, performant queries.
 * **Tools:** ![SQL](https://img.shields.io/badge/sql-003B57?style=flat-square&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 * [**View the Solutions →**](https://github.com/AngryDataGirl/Leetcode_SQL)
-
----
 
 ### 🇫🇷 French Grammar Platform
 *An AI-integrated language tool designed for high-precision Second Language Evaluation (SLE) practice.*
