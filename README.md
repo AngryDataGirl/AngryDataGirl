@@ -31,7 +31,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
   
 ## 🚀 Featured Projects & Technical Labs
 
-### 🏆 [SQL Problem Solving & Optimization](https://github.com/AngryDataGirl/Leetcode_SQL)
+### 🏆 SQL Problem Solving & Optimization
 *A dedicated technical lab for mastering complex relational logic and query performance.*
 
 * **Advanced Analytics:** Implementing multi-level window functions and recursive CTEs to solve high-complexity data hurdles.
