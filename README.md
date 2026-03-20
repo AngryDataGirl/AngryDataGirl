@@ -12,6 +12,8 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AngryDataGirl/AngryDataGirl/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 ### 🌐 Languages
 ![English](https://img.shields.io/badge/English-Native-blue?style=flat-square)
 ![French](https://img.shields.io/badge/Français-Bilingual-tr?style=flat-square)
@@ -32,6 +34,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
+
 ## 🎓 Advanced Statistical Coursework
 
 > **Bridging the gap between financial theory and data science.**
@@ -40,6 +43,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 - **Data Mining & Machine Learning:** Pattern recognition, clustering, and algorithmic data exploration.
   
 ---
+
 ## 🚀 Featured Projects & Technical Labs
 
 ### 🏆 SQL Problem Solving & Optimization
