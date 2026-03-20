@@ -12,7 +12,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AngryDataGirl/AngryDataGirl/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Data Engineering & Analytics
+## Data Engineering & Analytics
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,23 +22,29 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-**🎓 Advanced Statistical Coursework**
+## 🎓 Advanced Statistical Coursework**
 
 > **Bridging the gap between financial theory and data science.**
 - **Regression Modeling:** Linear, multiple, and logistic regression for predictive analysis.
 - **ANOVA I & II:** Analysis of variance, including factorial designs and post-hoc testing.
 - **Data Mining & Machine Learning:** Pattern recognition, clustering, and algorithmic data exploration.
+  
+## 🚀 Featured Projects & Technical Labs
 
-## Featured Projects
+### 🏆 [SQL Problem Solving & Optimization](https://github.com/AngryDataGirl/Leetcode_SQL)
+*A dedicated technical lab for mastering complex relational logic and query performance.*
 
-<details>
-<summary>MoodLab</summary>
-<br>
-A daily mood-tracking application built with Svelte to visualize daily habits.
-</details>
+* **Advanced Analytics:** Implementing multi-level window functions and recursive CTEs to solve high-complexity data hurdles.
+* **Logic Translation:** Converting abstract business requirements into precise, performant queries.
+* **Tools:** ![SQL](https://img.shields.io/badge/sql-003B57?style=flat-square&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+* [**View the Solutions →**](https://github.com/AngryDataGirl/Leetcode_SQL)
 
-<details>
-<summary>French Grammar Platform</summary>
-<br>
-A web application leveraging Svelte and RAG architecture for language practice.
-</details>
+---
+
+### 🇫🇷 French Grammar Platform
+*An AI-integrated language tool designed for high-precision Second Language Evaluation (SLE) practice.*
+
+* **Architecture:** Leveraging **Svelte** and **RAG (Retrieval-Augmented Generation)** to provide contextual grammar support for government testing.
+* **Logic:** Solving complex language acquisition hurdles through modern web architecture and efficient data retrieval.
+
+---
