@@ -1,4 +1,7 @@
 # Hello, Bonjour and 你好! I'm Angela ! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-w-43781850/)
+![English](https://img.shields.io/badge/English-Native-blue?style=flat-square)
+![French](https://img.shields.io/badge/Français-Bilingual-tr?style=flat-square)
+![Mandarin](https://img.shields.io/badge/中文-Conversational-red?style=flat-square)
 
 > **If it can fit in a table, I can build it.**
 
@@ -13,15 +16,6 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 </picture>
 
 ---
-
-### 🌐 Languages
-![English](https://img.shields.io/badge/English-Native-blue?style=flat-square)
-![French](https://img.shields.io/badge/Français-Bilingual-tr?style=flat-square)
-![Mandarin](https://img.shields.io/badge/中文-Conversational-red?style=flat-square)
-
-* **English:** Native proficiency.
-* **Français:** Professional bilingualism, specifically tailored for the Canadian Public Service (SLE).
-* **中文:** Conversational proficiency.
 
 ## Data Engineering & Analytics
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
