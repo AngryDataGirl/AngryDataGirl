@@ -4,6 +4,12 @@ I'm an Analytics Engineer specializing in untangling and reverse-engineering com
 
 If it can fit in a table, I can build it. 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngryDataGirl/AngryDataGirl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngryDataGirl/AngryDataGirl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AngryDataGirl/AngryDataGirl/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Languages and Tools
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
