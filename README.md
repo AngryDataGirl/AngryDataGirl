@@ -1,8 +1,10 @@
-# Hello, I'm Angela
+# Hello, I'm Angela ! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-w-43781850/)
 
-I'm an Analytics Engineer specializing in untangling and reverse-engineering complex legacy systems. I use advanced dbt modeling to build robust analytics layers, delivering high-value, user-centric reporting that drives strategic decision-making. While my education was in finance, accounting and statistics, I've since combined my love of technology with my love of numbers.
+> **If it can fit in a table, I can build it.**
 
-If it can fit in a table, I can build it. 
+I'm an **Analytics Engineer** specializing in untangling and reverse-engineering complex legacy systems. While my background is in **Finance, Accounting, and Statistics**, I’ve spent my career merging a love for technology with a deep obsession for numbers. As a non-traditional developer, I specialize in bridging the gap between technical complexity and business strategy.
+
+I leverage **Python** and **SQL** to architect clean data pipelines and use advanced **dbt modeling** to transform raw data into robust analytics layers, delivering high-value, user-centric reporting that drives strategic decision-making.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngryDataGirl/AngryDataGirl/output/github-contribution-grid-snake-dark.svg">
@@ -10,21 +12,22 @@ If it can fit in a table, I can build it.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AngryDataGirl/AngryDataGirl/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Languages and Tools
+### Data Engineering & Analytics
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-00487F?style=for-the-badge&logo=sas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## Experience
+**🎓 Advanced Statistical Coursework**
 
-<details>
-<summary>Senior Analytics Engineer | Present</summary>
-<br>
-- Reverse-engineered legacy Oracle and SAS environments into modern data pipelines.
-- Developed advanced dbt models for standardized, user-centric reporting.
-- Bridged the gap between raw data and actionable insights for stakeholders.
-</details>
+> **Bridging the gap between financial theory and data science.**
+- **Regression Modeling:** Linear, multiple, and logistic regression for predictive analysis.
+- **ANOVA I & II:** Analysis of variance, including factorial designs and post-hoc testing.
+- **Data Mining & Machine Learning:** Pattern recognition, clustering, and algorithmic data exploration.
 
 ## Featured Projects
 
