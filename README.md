@@ -5,7 +5,7 @@
 
 > **If it can fit in a table, I can build it.**
 
-I'm an **Analytics Engineer** specializing in untangling and reverse-engineering complex legacy systems. While my background is in **Finance, Accounting, and Statistics**, I’ve spent my career merging a love for technology with a deep obsession for numbers. As a non-traditional developer, I specialize in bridging the gap between technical complexity and business strategy.
+I'm a **Principal Analyst** specializing in untangling and reverse-engineering complex legacy systems. While my background is in **Finance, Accounting, and Statistics**, I’ve spent my career merging a love for technology with a deep obsession for numbers. As a non-traditional developer, I specialize in bridging the gap between technical complexity and business strategy.
 
 I leverage **Python** and **SQL** to architect clean data pipelines and use advanced **dbt modeling** to transform raw data into robust analytics layers, delivering high-value, user-centric reporting that drives strategic decision-making.
 
