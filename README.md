@@ -53,4 +53,4 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 
 * **Architecture:** Leveraging **Svelte** and **RAG (Retrieval-Augmented Generation)** to provide contextual grammar support for government testing.
 * **Logic:** Solving complex language acquisition hurdles through modern web architecture and efficient data retrieval.
-* [**Try the App →**](https://angrydatagirl.github.io/GOC_SLE_QUIZ_WEBAPP/)
+* [**Try the App →**](https://angrydatagirl.github.io/SLEQuizWebapp/)
