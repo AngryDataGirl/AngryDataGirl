@@ -54,3 +54,10 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 * **Architecture:** Leveraging **Svelte** and **RAG (Retrieval-Augmented Generation)** to provide contextual grammar support for government testing.
 * **Logic:** Solving complex language acquisition hurdles through modern web architecture and efficient data retrieval.
 * [**Try the App →**](https://angrydatagirl.github.io/SLEQuizWebapp/)
+
+### Moodlab
+*Because DailyBean has too many adds.*
+
+* **Architecture:** Flutter, JavaScript, Dart, HTML
+* **Logic:** Track everything!
+* [**Try the App →**](https://moodlab-lake.vercel.app/)
