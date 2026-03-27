@@ -56,7 +56,7 @@ I leverage **Python** and **SQL** to architect clean data pipelines and use adva
 * [**Try the App →**](https://angrydatagirl.github.io/SLEQuizWebapp/)
 
 ### Moodlab
-*Because DailyBean has too many adds.*
+*Because DailyBean has too many ads.*
 
 * **Architecture:** Flutter, JavaScript, Dart, HTML
 * **Logic:** Track everything!
